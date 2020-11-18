@@ -1,4 +1,4 @@
-# Privacy agreement
+# Privacy Policy
 
 > This app respects and protects the personal privacy of all service users. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with the provisions of this privacy policy. However, this app will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this privacy policy, this app will not disclose or provide this information to third parties without your prior permission. This app will update this privacy policy from time to time. When you agree to this app service use agreement, you are deemed to have agreed to the entire content of this privacy policy. This privacy policy is an integral part of this app service usage agreement.
 
