@@ -1,4 +1,4 @@
-# QDD Scanner
+# QDD Scanner 技术支持
 
 > Easier To Use Scan
 
